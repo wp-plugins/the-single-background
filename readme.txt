@@ -1,7 +1,7 @@
 ﻿=== The Single Background ===
 Contributors: Alobaidi
 Donate link: http://j.mp/WPTime_donations
-Tags: single background, background, single, different background, responsive background, full background, image background, responsive, page background, post background, post type, custom, custom post type, analytics, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
+Tags: single background, background, single, different background, responsive background, full background, image background, background image, responsive, page background, post background, post type, custom, custom post type, analytics, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 2.5
 Tested up to: 4.2.4
 Stable tag: 1.0.0
