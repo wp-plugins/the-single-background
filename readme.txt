@@ -4,7 +4,7 @@ Donate link: http://j.mp/WPTime_donations
 Tags: single background, background, single, different background, responsive background, full background, image background, background image, responsive, page background, post background, post type, custom, custom post type, analytics, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 2.5
 Tested up to: 4.3
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -38,11 +38,6 @@ Add different background color or responsive background image for every single p
 * [Premium WordPress themes on Themeforest.](http://j.mp/TF_WPTime)
 * [Premium WordPress plugins on Codecanyon.](http://j.mp/CC_WPTime)
 
-### About
-
-* [The plugin designed and developed by Alobaidi.](http://wp-plugins.in)
-* [Alobaidi on Twitter.](http://wp-plugins.in/1SQld8g)
-
 ### More Plugins
 
 * [My Plugins](https://profiles.wordpress.org/alobaidi#content-plugins)
@@ -73,18 +68,25 @@ Add different background color or responsive background image for every single p
 	[single_bg color="black"] this is for string background color
 	[single_bg color="rgba(0, 0, 0, 1)"] this is for rgba background color
 
+[Read explanation of use.](http://wp-plugins.in/single-background)
+
 == Frequently Asked Questions ==
 
 ### FAQ
 
-* [For more questions or help, contact me.](http://wp-plugins.in)
-* [Or ask me on twitter.](http://wp-plugins.in/1SQld8g)
+* [Read explanation of use.](http://wp-plugins.in/single-background)
+* [For more questions or help, contact me.](http://wp-plugins.in/1XnA5Qr)
+* [Or ask me on twitter.](http://wp-plugins.in/1L6zCZL)
 
 == Changelog ==
 
+= 1.0.1 =
+
+* Fixing background position if user is logged in.
+
 = 1.0.0 =
 
-First version.
+* First version.
 
 == Upgrade Notice ==
 

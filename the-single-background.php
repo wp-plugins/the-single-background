@@ -3,7 +3,7 @@
 Plugin Name: The Single Background
 Plugin URI: http://wp-plugins.in/single-background
 Description: Add different background color or responsive background image for every single post or page or custom post type.
-Version: 1.0.0
+Version: 1.0.1
 Author: Alobaidi
 Author URI: http://wp-plugins.in
 License: GPLv2 or later
@@ -70,11 +70,14 @@ function the_single_background_plugin( $atts, $content = null ) {
 							background:none !important;
 						}
 						body{
-							background:url('.$url.') fixed no-repeat !important;
+							background:url('.$url.') 0 0 fixed no-repeat !important;
 							background-size:100% 100% !important;
 							-webkit-background-size:100% 100% !important;
 							-moz-background-size:100% 100% !important;
 							-o-background-size:100% 100% !important;
+						}
+						body.logged-in{
+							background-position: 0 -32px !important;
 						}
 					</style>';
 			return false;
@@ -94,7 +97,7 @@ function the_single_background_plugin( $atts, $content = null ) {
 					</style>';
 		} // end if choose background color
 	
-	} // end if is_single()
+	} // end if is_single() or is_page()
 	
 } // end function
 add_shortcode("single_bg", "the_single_background_plugin"); // Add Shortcode [single_bg url="" color=""]
