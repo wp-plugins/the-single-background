@@ -3,7 +3,7 @@ Contributors: Alobaidi
 Donate link: http://j.mp/WPTime_donations
 Tags: single background, background, single, different background, responsive background, full background, image background, background image, responsive, page background, post background, post type, custom, custom post type, analytics, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 2.5
-Tested up to: 4.3
+Tested up to: 4.3.1
 Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
